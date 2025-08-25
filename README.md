@@ -2,23 +2,12 @@
 
 A phone number input with country code picker for React Native & Expo with full international validation powered by `libphonenumber-js`.
 
-<p align="center" style="margin-bottom:16px;">
-  <img 
-    src="./assets/Android_before_entering.png" 
-    alt="Android Light Theme" 
-    style="max-width:200px; width:100%; display:inline-block; margin:0 8px 16px 8px;" 
-  />
-  <img 
-    src="./assets/iOS_before_entering.png" 
-    alt="iOS Light Theme" 
-    style="max-width:200px; width:100%; display:inline-block; margin:0 8px 16px 8px;" 
-  />
+<p align="center">
+  <img src="./assets/Android_before_entering.png" alt="Android Light Theme" width="200" />
+  <img src="./assets/iOS_before_entering.png" alt="iOS Light Theme" width="200" />
 </p>
-<p align="center" style="font-size: 12px;">
-<i>
-Light theme, dark theme, and custom branded examples on Android
-</i>
-</p>
+
+*Light theme, dark theme, and custom branded examples on Android & iOS*
 
 ## Features
 
@@ -79,62 +68,22 @@ export default function App() {
 
 ### Android Examples
 
-<p align="center" style="margin-bottom:16px;">
-  <img 
-    src="./assets/Android_before_entering.png" 
-    alt="Android Light Theme" 
-    style="max-width:200px; width:100%; display:inline-block; margin:0 8px 16px 8px;" 
-  />
-  <img 
-    src="./assets/Android_selection_style.png" 
-    alt="Android Country Selection" 
-    style="max-width:200px; width:100%; display:inline-block; margin:0 8px 16px 8px;" 
-  />
-  <img 
-    src="./assets/Android_dark_mode.png" 
-    alt="Android Dark Theme" 
-    style="max-width:200px; width:100%; display:inline-block; margin:0 8px 16px 8px;" 
-  />
-  <img 
-    src="./assets/Android_custom_style.png" 
-    alt="Android Custom Style" 
-    style="max-width:200px; width:100%; display:inline-block; margin:0 8px 16px 8px;" 
-  />
-    <img 
-    src="./assets/Android_validation.png" 
-    alt="Android Validation" 
-    style="max-width:200px; width:100%; display:inline-block; margin:0 8px 16px 8px;" 
-  />
+<p align="center">
+  <img src="./assets/Android_before_entering.png" alt="Android Light Theme" width="180" />
+  <img src="./assets/Android_selection_style.png" alt="Android Country Selection" width="180" />
+  <img src="./assets/Android_dark_mode.png" alt="Android Dark Theme" width="180" />
+  <img src="./assets/Android_custom_style.png" alt="Android Custom Style" width="180" />
+  <img src="./assets/Android_validation.png" alt="Android Validation" width="180" />
 </p>
 
 ### iOS Examples
 
-<p align="center" style="margin-bottom:16px;">
-  <img 
-    src="./assets/iOS_before_entering.png" 
-    alt="iOS Light Theme" 
-    style="max-width:200px; width:100%; display:inline-block; margin:0 8px 16px 8px;" 
-  />
-    <img 
-    src="./assets/iOS_selection_style.png" 
-    alt="iOS Country Selection" 
-    style="max-width:200px; width:100%; display:inline-block; margin:0 8px 16px 8px;" 
-  />
-  <img 
-    src="./assets/iOS_dark_mode.png" 
-    alt="iOS Dark Theme" 
-    style="max-width:200px; width:100%; display:inline-block; margin:0 8px 16px 8px;" 
-  />
-  <img 
-    src="./assets/iOS_custom_style.png" 
-    alt="iOS Custom Style" 
-    style="max-width:200px; width:100%; display:inline-block; margin:0 8px 16px 8px;" 
-  />
-    <img 
-    src="./assets/iOS_validation.png" 
-    alt="iOS Validation" 
-    style="max-width:200px; width:100%; display:inline-block; margin:0 8px 16px 8px;" 
-  />
+<p align="center">
+  <img src="./assets/iOS_before_entering.png" alt="iOS Light Theme" width="180" />
+  <img src="./assets/iOS_selection_style.png" alt="iOS Country Selection" width="180" />
+  <img src="./assets/iOS_dark_mode.png" alt="iOS Dark Theme" width="180" />
+  <img src="./assets/iOS_custom_style.png" alt="iOS Custom Style" width="180" />
+  <img src="./assets/iOS_validation.png" alt="iOS Validation" width="180" />
 </p>
 
 ## Visual Design
