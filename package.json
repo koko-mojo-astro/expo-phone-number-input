@@ -31,7 +31,10 @@
     "phone number input with country code picker",
     "ExpoPhoneNumberInput"
   ],
-  "repository": "https://github.com/koko-mojo-astro/expo-phone-number-input",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koko-mojo-astro/expo-phone-number-input.git"
+  },
   "bugs": {
     "url": "https://github.com/koko-mojo-astro/expo-phone-number-input/issues"
   },
