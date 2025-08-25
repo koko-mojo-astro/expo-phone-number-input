@@ -1,6 +1,6 @@
 {
   "name": "expo-phone-number-input",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A phone number input with country code picker for React Native & Expo with full international validation powered by `libphonenumber-js`.",
   "main": "build/index.js",
   "types": "build/index.d.ts",
