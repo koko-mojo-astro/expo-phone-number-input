@@ -1,0 +1,10 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "paths": {
+      "expo-phone-number-input": ["../src/index"],
+      "expo-phone-number-input/*": ["../src/*"]
+    }
+  }
+}

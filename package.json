@@ -1,0 +1,55 @@
+{
+  "name": "expo-phone-number-input",
+  "version": "1.0.0",
+  "description": "A phone number input with country code picker for React Native & Expo with full international validation powered by `libphonenumber-js`.",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
+  "files": [
+    "build/**/*",
+    "src/**/*",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "expo-module build",
+    "clean": "expo-module clean",
+    "lint": "expo-module lint",
+    "test": "expo-module test",
+    "prepare": "expo-module prepare",
+    "prepublishOnly": "expo-module prepublishOnly",
+    "expo-module": "expo-module",
+    "open:ios": "xed example/ios",
+    "open:android": "open -a \"Android Studio\" example/android"
+  },
+  "keywords": [
+    "react-native",
+    "expo",
+    "expo-phone-number-input",
+    "country code picker",
+    "country phone number input",
+    "country code with flag",
+    "country and phone code picker",
+    "phone number input with country code picker",
+    "ExpoPhoneNumberInput"
+  ],
+  "repository": "https://github.com/koko-mojo-astro/expo-phone-number-input",
+  "bugs": {
+    "url": "https://github.com/koko-mojo-astro/expo-phone-number-input/issues"
+  },
+  "author": "koko-mojo-astro <tunmin.koko305@gmail.com> (koko-mojo-astro)",
+  "license": "MIT",
+  "homepage": "https://github.com/koko-mojo-astro/expo-phone-number-input#readme",
+  "dependencies": {
+    "libphonenumber-js": "^1.12.13"
+  },
+  "devDependencies": {
+    "@types/react": "~19.0.0",
+    "expo-module-scripts": "^4.1.10",
+    "expo": "~53.0.0",
+    "react-native": "0.79.1"
+  },
+  "peerDependencies": {
+    "expo": "*",
+    "react": "*",
+    "react-native": "*"
+  }
+}
